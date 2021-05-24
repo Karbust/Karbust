@@ -4,34 +4,35 @@
 
 ### I work with web technologies, mainly React, NodeJS and TypeScript.
 
-## What I work with:
-
-![React](./icons/react.png)
-![TypeScript](./icons/typescript.png)
-![JavaScript](./icons/javascript.png)
-![SCSS](./icons/sass.png)
-![NodeJS](./icons/node-js.png)
-![Sequelize](./icons/sequelize.png)
-![GraphQL](./icons/graphql.png)
-![PostgreSQL](./icons/postgresql.png)
-![MeiliSearch](./icons/meilisearch.png)
-![Redis](./icons/redis.png)
-![Docker](./icons/docker.png)
-![Nginx](./icons/nginx.png)
-![Ubuntu](./icons/ubuntu.png)
-![Yarn](./icons/yarn.png)
-![Gulp](./icons/gulp.png)
-![GitHub](./icons/github.png)
-![WebStorm](./icons/webstorm.png)
-![Cloudflare](./icons/cloudflare.png)
+## What I work with: 
+[![React](./icons/react.png)](https://reactjs.org)
+[![TypeScript](./icons/typescript.png)](https://www.typescriptlang.org)
+[![JavaScript](./icons/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SCSS](./icons/sass.png)](https://sass-lang.com)
+[![NodeJS](./icons/node-js.png)](https://nodejs.org)
+[![Sequelize](./icons/sequelize.png)](https://sequelize.org)
+[![GraphQL](./icons/graphql.png)](https://graphql.org)
+[![PostgreSQL](./icons/postgresql.png)](https://www.postgresql.org)
+[![MeiliSearch](./icons/meilisearch.png)](https://www.meilisearch.com)
+[![Redis](./icons/redis.png)](https://redis.io)
+[![Docker](./icons/docker.png)](https://www.docker.com)
+[![Nginx](./icons/nginx.png)](http://nginx.org)
+[![Ubuntu](./icons/ubuntu.png)](https://ubuntu.com)
+[![Yarn](./icons/yarn.png)](https://yarnpkg.com)
+[![Gulp](./icons/gulp.png)](https://gulpjs.com)
+[![ESLint](./icons/eslint.png)](https://eslint.org)
+[![GitHub](./icons/github.png)](https://github.com)
+[![WebStorm](./icons/webstorm.png)](https://www.jetbrains.com/webstorm)
+[![Navicat](./icons/navicat.png)](https://www.navicat.com)
+[![Cloudflare](./icons/cloudflare.png)](https://www.cloudflare.com)
 
 ## What I have previously worked with:
 
-![Electron](./icons/electron.png)
-![PHP](./icons/php.png)
-![Laravel](./icons/laravel.png)
-![C#](./icons/c-sharp.png)
-![MySQL](./icons/mysql.png)
+[![Electron](./icons/electron.png)](https://www.electronjs.org)
+[![PHP](./icons/php.png)](https://www.php.net)
+[![Laravel](./icons/laravel.png)](https://laravel.com)
+[![C#](./icons/c-sharp.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![MySQL](./icons/mysql.png)](https://www.mysql.com)
 
 ## My Projects:
 [M2IconDB](https://m2icondb.com)
