@@ -22,6 +22,7 @@
 [![Gulp](./icons/gulp.png)](https://gulpjs.com)
 [![ESLint](./icons/eslint.png)](https://eslint.org)
 [![GitHub](./icons/github.png)](https://github.com)
+[![Sentry](./icons/sentry.png)](https://sentry.io/welcome/)
 [![WebStorm](./icons/webstorm.png)](https://www.jetbrains.com/webstorm)
 [![Navicat](./icons/navicat.png)](https://www.navicat.com)
 [![Cloudflare](./icons/cloudflare.png)](https://www.cloudflare.com)
