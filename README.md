@@ -29,11 +29,12 @@
 
 ## What I have previously worked with:
 
+[![MySQL](./icons/mysql.png)](https://www.mysql.com)
 [![Electron](./icons/electron.png)](https://www.electronjs.org)
 [![PHP](./icons/php.png)](https://www.php.net)
 [![Laravel](./icons/laravel.png)](https://laravel.com)
+[![C++](./icons/cplusplus.png)](https://isocpp.org)
 [![C#](./icons/c-sharp.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![MySQL](./icons/mysql.png)](https://www.mysql.com)
 
 ## My Projects:
 [M2IconDB](https://m2icondb.com)
